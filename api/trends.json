@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T07:26:52.791939+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-04-06T09:31:30.367598+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3769291",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时29分 ~ 07时26分]"
+          "appearance_count": 7,
+          "time_info": "[03时29分 ~ 09时31分]"
         }
       ]
     }
