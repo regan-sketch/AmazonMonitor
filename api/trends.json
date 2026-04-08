@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-04-08T23:03:46.408738+08:00",
-  "total_titles_processed": 1960,
+  "generated_at": "2026-04-09T00:54:13.572219+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Anthropic正创建一个名为Project Glasswing的倡议，允许苹果、亚马逊测试更加强大的AI模型Mythos。",
-          "url": "https://wallstreetcn.com/livenews/3083664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时06分 ~ 03时53分]"
-        },
-        {
-          "title": "亚马逊(AMZN.O)正在抵制供应商提高价格的要求，迫使品牌商承担关税和运输成本上涨带来的额外支出。",
-          "url": "https://flash.jin10.com/detail/20260408043115155800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
