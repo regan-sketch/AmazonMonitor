@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-04-14T23:08:19.350030+08:00",
-  "total_titles_processed": 1847,
+  "generated_at": "2026-04-15T00:57:51.941704+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "亚马逊美股盘前涨超1%，触及日内高点。",
-          "url": "https://wallstreetcn.com/livenews/3087715",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时06分"
-        },
-        {
-          "title": "亚马逊将收购Globalstar并扩展其LEO卫星网络",
-          "url": "https://wallstreetcn.com/livenews/3087712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时06分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
