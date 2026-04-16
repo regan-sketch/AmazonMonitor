@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-16T21:11:05.544629+08:00",
-  "total_titles_processed": 1696,
+  "generated_at": "2026-04-16T23:21:05.475979+08:00",
+  "total_titles_processed": 1834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "跨境电商从业者：外国人的钱就是好赚",
+          "url": "https://www.toutiao.com/trending/7629240266926555172/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
+        },
         {
           "title": "福克斯指定亚马逊云服务为首选人工智能云服务提供商。",
           "url": "https://wallstreetcn.com/livenews/3089364",
@@ -14,7 +25,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -25,7 +36,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         }
