@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-04-17T23:53:17.720516+08:00",
-  "total_titles_processed": 1848,
+  "generated_at": "2026-04-18T00:46:11.942548+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "跨境电商从业者：外国人的钱就是好赚",
-          "url": "https://www.toutiao.com/trending/7629240266926555172/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 07时34分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
