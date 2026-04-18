@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-18T20:42:05.793990+08:00",
-  "total_titles_processed": 1486,
+  "generated_at": "2026-04-18T21:58:15.171503+08:00",
+  "total_titles_processed": 1581,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亚马逊创始人与56岁妻子正积极备孕",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%B8%8E56%E5%B2%81%E5%A6%BB%E5%AD%90%E6%AD%A3%E7%A7%AF%E6%9E%81%E5%A4%87%E5%AD%95%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
