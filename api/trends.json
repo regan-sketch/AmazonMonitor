@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T01:32:12.471472+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-04-29T03:22:54.934271+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3095938",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 03时22分]"
         },
         {
           "title": "亚马逊推出类OpenClaw智能体，加码进军企业软件市场",
@@ -25,7 +26,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         },
@@ -36,7 +37,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         }
