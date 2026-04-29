@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T06:49:41.695487+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2026-04-30T07:46:26.960271+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,24 @@
           "url": "https://wallstreetcn.com/livenews/3096978",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 07时46分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)CEO：未更新资本支出，我们的计划基本保持不变。",
+          "url": "https://flash.jin10.com/detail/20260430060330966800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 07时46分]"
         },
         {
           "title": "亚马逊：确认Prime Day会员日从7月份提前至6月份。",
@@ -53,24 +66,13 @@
           "time_info": "05时55分"
         },
         {
-          "title": "亚马逊(AMZN.O)CEO：未更新资本支出，我们的计划基本保持不变。",
-          "url": "https://flash.jin10.com/detail/20260430060330966800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时49分"
-        },
-        {
           "title": "周四亚太盘初，道指期货跌约0.4%，标普股指期货跌0.1%，纳指期货跌超0.2%，罗素2000股指期货跌超0.5%。 目前，Meta（美股盘后）跌6.1%，奈飞跌超1%，甲骨文跌超0.6%，亚马逊涨1.3%，Sandisk涨1.5%，亚马逊涨2.1%，西部数据涨2.7%，谷歌A涨5.8%，高通涨15.8%。",
           "url": "https://wallstreetcn.com/livenews/3096972",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
         },
@@ -125,7 +127,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
         }
