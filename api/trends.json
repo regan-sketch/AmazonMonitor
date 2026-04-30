@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T05:51:04.317872+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-05-01T06:44:29.816715+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 05时51分]"
+          "appearance_count": 7,
+          "time_info": "[01时11分 ~ 06时44分]"
         },
         {
           "title": "亚马逊：修复受损的中东云业务需耗时数月",
