@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T10:10:57.137344+08:00",
-  "total_titles_processed": 775,
+  "generated_at": "2026-05-01T14:09:05.524148+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时11分 ~ 07时44分]"
+        },
+        {
+          "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
+          "url": "https://www.zhihu.com/question/2033115543276930640",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 14时09分]"
         },
         {
           "title": "亚马逊：修复受损的中东云业务需耗时数月",
