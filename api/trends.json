@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T18:17:57.757998+08:00",
-  "total_titles_processed": 1240,
+  "generated_at": "2026-05-01T19:53:15.118940+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时08分 ~ 16时55分]"
+        },
+        {
+          "title": "美国五角大楼将扩大英伟达(NVDA.O)和微软(MSFT.O)人工智能在秘密网络中的使用。国防部还与亚马逊云服务(AWS)和Reflection AI公司达成了协议。",
+          "url": "https://flash.jin10.com/detail/20260501190310668800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "亚马逊：修复受损的中东云业务需耗时数月",
