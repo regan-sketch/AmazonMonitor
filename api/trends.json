@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-05-08T19:06:00.086460+08:00",
-  "total_titles_processed": 1442,
-  "failed_sources": [],
+  "generated_at": "2026-05-08T21:14:25.281538+08:00",
+  "total_titles_processed": 1598,
+  "failed_sources": [
+    "douyin"
+  ],
   "trends": [
     {
       "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
