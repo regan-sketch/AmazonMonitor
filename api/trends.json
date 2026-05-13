@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T14:20:03.288927+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-05-13T17:38:13.469483+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "标普500指数初步收跌0.1%，科技板块跌1%，可选消费板块跌0.9%，能源板块涨0.9%，日用品板块涨1.6%，保健板块涨2%。 纳斯达克100指数初步收跌0.9%，成分股中，高通初步收跌11.3%，英特尔跌6.8%，Strategy、闪迪、西部数据、恩智浦至少跌超4%，路透跌2.5%，ISRG涨2.6%，AppLovin涨2.8%，德康医疗涨3.1%，Insmed涨12.1%。 联合健康初步收涨3.1%，沃尔玛涨2.3%，安进涨2%，领跑道指成分股，微软、亚马逊、卡特彼勒、IBM则跌超1%，Salesforce跌3.6%。 费城半导体指数跌3%，纳斯达克生物科技指数涨1.1%。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "玻璃基板加速量产信号？SK海力士兄弟公司拟加码旗下工厂 AMD、AWS均为潜在客户",
+          "url": "https://www.cls.cn/detail/2369731",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 17时38分]"
         },
         {
           "title": "亚马逊：亚马逊现已在超过1000个城市和城镇提供当日生鲜杂货配送，并计划在年底前将覆盖范围扩大一倍。",
