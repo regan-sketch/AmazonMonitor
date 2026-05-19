@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T07:58:41.792751+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2026-05-19T10:54:10.016155+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫",
@@ -13,11 +13,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 07时58分]"
+          "appearance_count": 10,
+          "time_info": "[01时54分 ~ 10时54分]"
+        },
+        {
+          "title": "马斯克怒喷达美航空弃用星链服务 高管反击：亚马逊竞品更便宜、功能更多",
+          "url": "https://www.cls.cn/detail/2374760",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时54分]"
         }
       ]
     }
