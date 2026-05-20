@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T18:21:31.063495+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-05-20T21:33:41.402244+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 1,
+      "match_count": 9,
       "titles": [
         {
           "title": "标普500指数初步收跌0.7%，原材料板块跌2.3%，电信、可选消费、金融板块至多跌1.7%，科技板块跌0.9%，能源板块涨1.2%。 纳斯达克100指数初步收跌0.6%，成分股中，Doordash初步收跌4.9%，高通、思科、AppLovin、派拓网络PANW、汤森路透、博通、谷歌A、铿腾电子至多跌3.5%，拼多多涨2.5%，闪迪涨3.4%，Arm控股涨3.8%，迈威尔科技涨4%。 思科初步收跌3%，波音、3M、亚马逊跌超2%，领跌道指成分股，雪佛龙涨1.5%。 半导体指数跌0.1%，银行指数跌0.9%。",
@@ -17,6 +17,94 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "亚马逊创始人贝索斯：正在考虑为蓝色起源引入外部资金。",
+          "url": "https://flash.jin10.com/detail/20260520205950586800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "贝佐斯：特朗普比第一任期更成熟、更自律。 我仍然会打电话给奥巴马征求意见。 在太空建立数据中心“非常现实”。 地面数据中心的能源预算将会增加。 发射成本需要降低十倍。 人工智能将导致劳动力短缺。 亚马逊没有因为人工智能而裁员。 我在亚马逊、蓝色起源以及普罗米修斯公司的工作经历，都与人工智能相关。 太空产业将会成为一个“庞大规模”的产业。",
+          "url": "https://wallstreetcn.com/livenews/3106732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "亚马逊创始人贝索斯：认为太空发展完全是科幻的人应保持谨慎。",
+          "url": "https://flash.jin10.com/detail/20260520205941680800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "亚马逊创始人贝索斯：使用月球上的材料将一公斤物体从月球表面发射升空所需的能量比从地球发射要少28倍，这开启了将重工业迁离地球的进程。我们正在与NASA合作在月球上开始建设，我们可以在月球上建造“很多东西”。",
+          "url": "https://flash.jin10.com/detail/20260520205728091800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "贝佐斯：我“经常性”地卖亚马逊股票。",
+          "url": "https://wallstreetcn.com/livenews/3106726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "亚马逊创始人贝索斯：我们正在研究利用月球表面的月壤和尘埃制造太阳能电池。",
+          "url": "https://flash.jin10.com/detail/20260520205522075800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "亚马逊创始人贝索斯：很难判断SpaceX的估值中有多少基于实际数据，多少基于未来展望。",
+          "url": "https://flash.jin10.com/detail/20260520205111659800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "亚马逊创始人贝索斯：普罗米修斯计划中正在打造的工具将对蓝色起源大有裨益。",
+          "url": "https://flash.jin10.com/detail/20260520204957612800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         }
       ]
     }
