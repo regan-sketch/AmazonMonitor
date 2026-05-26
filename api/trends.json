@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T05:42:17.250689+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-05-27T07:02:37.950519+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "合肥湿度95% 亚马逊丛林才85%",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 05时42分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 07时02分]"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：为AWS GovCloud（美国）客户推出基于美国本土、由美国公民提供的24/7技术支持。",
+          "url": "https://flash.jin10.com/detail/20260527061351073800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         }
       ]
     }
