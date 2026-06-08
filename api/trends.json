@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-09T01:25:01.180249+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-09T04:03:33.518561+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "Cipher Digital Inc.计划通过发行垃圾债（高收益率债券）融资8.10亿美元，用于支持一个与亚马逊相关的数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3116319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
         {
           "title": "亚马逊将发行创纪录的140亿加元高评级债券。",
           "url": "https://wallstreetcn.com/livenews/3116280",
@@ -14,7 +25,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
         },
@@ -25,7 +36,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
         }
