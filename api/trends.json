@@ -1,69 +1,7 @@
 {
-  "generated_at": "2026-06-09T21:39:45.262417+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2026-06-10T00:27:14.233603+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "亚马逊(AMZN.O)：向美国证券交易委员会提交文件，拟发行五期加元计价债券，总规模最高达140亿加元。",
-          "url": "https://flash.jin10.com/detail/20260609053024906800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "光纤“祖师爷”康宁股价拉升 与亚马逊达成数十亿美元生产协议",
-          "url": "https://www.cls.cn/detail/2394091",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "Cipher Digital Inc.计划通过发行垃圾债（高收益率债券）融资8.10亿美元，用于支持一个与亚马逊相关的数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3116319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时03分"
-        },
-        {
-          "title": "亚马逊将发行创纪录的140亿加元高评级债券。",
-          "url": "https://wallstreetcn.com/livenews/3116280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)将发行140亿加元的高级债券，创加元债券发行规模新高。",
-          "url": "https://flash.jin10.com/detail/20260609004558100800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
