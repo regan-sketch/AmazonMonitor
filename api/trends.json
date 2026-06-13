@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T14:52:12.280665+08:00",
-  "total_titles_processed": 876,
+  "generated_at": "2026-06-13T17:52:50.291874+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 14时52分]"
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 17时52分]"
         },
         {
           "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
