@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T21:32:22.411656+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-06-14T23:44:46.231266+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             9,
             7,
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 21时32分]"
+          "appearance_count": 6,
+          "time_info": "[12时16分 ~ 23时44分]"
         },
         {
           "title": "亚马逊CEO向美官员汇报后 特朗普政府收紧Anthropic模型使用限制",
