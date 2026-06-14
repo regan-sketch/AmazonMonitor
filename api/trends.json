@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T16:38:14.376685+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-06-14T19:25:40.368696+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时00分 ~ 16时38分]"
+          "appearance_count": 6,
+          "time_info": "[08时00分 ~ 19时25分]"
         },
         {
           "title": "亚马逊CEO向美官员汇报后 特朗普政府收紧Anthropic模型使用限制",
@@ -38,11 +39,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 16时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 19时25分]"
         },
         {
           "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
