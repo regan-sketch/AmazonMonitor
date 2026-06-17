@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T08:11:29.160271+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-06-17T14:02:56.808074+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "连涨三天市值狂增万亿美元！SpaceX超越亚马逊跻身全球前五",
@@ -30,6 +30,17 @@
           "time_info": "04时40分"
         },
         {
+          "title": "SpaceX上市后股价飙升49%，市值超越亚马逊，逼近微软，股票期权开始交易",
+          "url": "https://wallstreetcn.com/articles/3774826",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
           "url": "https://www.cls.cn/detail/2401513",
           "source": "财联社热门",
@@ -48,7 +59,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         },
