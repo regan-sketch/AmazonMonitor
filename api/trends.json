@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T16:59:43.453907+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-06-19T20:47:35.275364+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周四（6月18日），美股超大规模云服务商（Hyperscalers）涨1.39%，报95.20点。 成分股中，亚马逊收涨2.90%，Meta涨1.70%，谷歌A涨1.17%，甲骨文涨0.41%，微软涨0.13%。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 08时02分]"
+        },
+        {
+          "title": "剑指英伟达！报道：亚马逊洽谈向其他公司出售自研AI芯片",
+          "url": "https://wallstreetcn.com/articles/3775047",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "报道：微软和亚马逊云服务将面临欧盟严厉反垄断监管",
