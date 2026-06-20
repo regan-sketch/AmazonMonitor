@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-20T23:31:59.628064+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2026-06-21T01:17:13.027209+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊旗下电影部门放弃拍摄有关OpenAI的电影。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3122199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
