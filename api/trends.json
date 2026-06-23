@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-24T05:25:33.539799+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-06-24T07:02:02.424223+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Cerebras：利润将遭受10-15个（百分）点的冲击。 预计与亚马逊AWS的协议将从2027年带来影响。",
+          "url": "https://wallstreetcn.com/livenews/3123660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
