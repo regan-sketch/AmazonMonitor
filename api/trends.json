@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-06-26T21:05:19.333920+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-06-27T00:08:56.312313+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周四（6月25日），美股超大规模云服务商（Hyperscalers）跌2.27%，报87.43点，6月1日达到106.56点之后，持续回撤，逼近4月7日顶部82.45点。 成分股全线溃败，微软收跌3.46%，甲骨文跌3.22%，亚马逊跌3.10%，Meta Platforms跌2.65%，谷歌A跌0.46%。",
-          "url": "https://wallstreetcn.com/livenews/3124866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "亚马逊全球开店推出“拉美速通计划”，要扶持3000个中国品牌深耕拉美",
-          "url": "https://flash.jin10.com/detail/20260626134310743800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
