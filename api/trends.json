@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-07-01T22:11:56.704210+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2026-07-02T01:08:21.451559+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "AWS：Anthropic的Claude Fable 5模型将于明天在Bedrock上再次向客户提供。",
-          "url": "https://flash.jin10.com/detail/20260701111917615800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "Anthropic：将与亚马逊、微软、谷歌及其他Glasswing合作伙伴共同制定评估AI越狱严重性的框架。",
-          "url": "https://flash.jin10.com/detail/20260701111702765800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "Anthropic：将尽快在AWS、谷歌云和微软Foundry上重新启用Fable 5访问。",
-          "url": "https://flash.jin10.com/detail/20260701111504167800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
