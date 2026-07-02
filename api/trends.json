@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-07-02T23:07:54.381457+08:00",
-  "total_titles_processed": 1483,
+  "generated_at": "2026-07-03T01:29:11.115446+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
-          "url": "https://www.cls.cn/detail/2414683",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 14时32分]"
-        },
-        {
-          "title": "亚马逊公司低地轨道卫星计划新一批卫星发射升空",
-          "url": "https://flash.jin10.com/detail/20260702171909732800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
