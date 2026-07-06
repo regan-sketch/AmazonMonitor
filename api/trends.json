@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-06T20:38:14.040075+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-07-07T00:13:47.220520+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "报道：亚马逊AWS上调第三季度ASIC服务器出货量预测",
-          "url": "https://wallstreetcn.com/livenews/3129228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
