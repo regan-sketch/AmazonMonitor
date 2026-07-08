@@ -1,77 +1,22 @@
 {
-  "generated_at": "2026-07-08T23:11:32.182977+08:00",
-  "total_titles_processed": 1602,
+  "generated_at": "2026-07-09T01:21:52.387377+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
-          "title": "亚马逊发行250亿美元债券，获得620亿美元认购需求。",
-          "url": "https://wallstreetcn.com/livenews/3130135",
+          "title": "华纳兄弟探索（WBD）与亚马逊旗下AWS开发Agentic AI广告体验。",
+          "url": "https://wallstreetcn.com/livenews/3130814",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "亚马逊AWS拟在菲律宾投资至多50亿美元",
-          "url": "https://flash.jin10.com/detail/20260708153436631800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "据美国证交会（SEC）文件显示，亚马逊(AMZN.O)定价242.5亿美元多期限债券发行，利率介于4.6%至6.25%。",
-          "url": "https://flash.jin10.com/detail/20260708051404780800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "亚马逊全球智能枢纽仓落地长三角，上海、宁波双仓正式启用",
-          "url": "https://wallstreetcn.com/livenews/3130073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "亚马逊正在开发一个此前未被报道的Alexa项目，代号“Moonraker”，旨在帮用户处理更复杂、多步骤的任务。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3130569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
-          "url": "https://wallstreetcn.com/livenews/3130159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
+          "time_info": "01时21分"
         }
       ]
     }
