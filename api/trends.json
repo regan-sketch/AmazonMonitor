@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-09T19:52:30.975417+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-07-09T22:33:46.019660+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "微信读书为什么不专门为 Kindle 开发一款操作系统，去收割亚马逊丢掉的国内市场份额？",
           "url": "https://www.zhihu.com/question/2010901701654254725",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 22时33分]"
         },
         {
           "title": "华纳兄弟探索（WBD）与亚马逊旗下AWS开发Agentic AI广告体验。",
@@ -28,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "浙江美大：收到实际控制人夏志生、夏鼎通知，其正在筹划涉及公司控制权变更的事项，可能导致实际控制人发生变更。交易对手方所属行业为跨境电商行业，股份转让比例范围为30%以内，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3131406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         }
       ]
     }
