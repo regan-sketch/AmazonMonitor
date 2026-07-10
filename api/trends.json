@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-07-10T21:05:38.016440+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-07-11T00:16:19.538436+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "微信读书为什么不专门为 Kindle 开发一款操作系统，去收割亚马逊丢掉的国内市场份额？",
-          "url": "https://www.zhihu.com/question/2010901701654254725",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 07时04分]"
-        },
-        {
-          "title": "亚马逊云服务(AWS)：推出AWS Loom。",
-          "url": "https://flash.jin10.com/detail/20260710052241881800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
