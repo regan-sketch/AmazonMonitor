@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T04:06:00.407782+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-07-16T05:50:52.630197+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "亚马逊(AMZN.O)：戴夫·特雷德韦尔将接任AWS计算与机器学习服务负责人，戴夫·布朗离职。",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "周三（7月15日），美股超大规模云服务商（Hyperscalers）涨3.10%，报96.09点。 成分股普遍收涨，甲骨文、谷歌A、Meta、亚马逊涨3.56%-3.02%，微软涨2.78%。",
+          "url": "https://wallstreetcn.com/livenews/3134608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
         },
         {
           "title": "亚马逊云业务高管洗牌：计算部门主管将离职",
