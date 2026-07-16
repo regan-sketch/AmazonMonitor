@@ -1,70 +1,7 @@
 {
-  "generated_at": "2026-07-16T23:27:55.485465+08:00",
-  "total_titles_processed": 1812,
+  "generated_at": "2026-07-17T01:05:11.216661+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "亚马逊(AMZN.O)：戴夫·特雷德韦尔将接任AWS计算与机器学习服务负责人，戴夫·布朗离职。",
-          "url": "https://flash.jin10.com/detail/20260716005934420800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
-          "url": "https://wallstreetcn.com/livenews/3134592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "亚马逊：Dave Treadwell将负责AWS计算与ML服务。 Dave Brown将在公司外部担任新职务。",
-          "url": "https://wallstreetcn.com/livenews/3134532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "周三（7月15日），美股超大规模云服务商（Hyperscalers）涨3.10%，报96.09点。 成分股普遍收涨，甲骨文、谷歌A、Meta、亚马逊涨3.56%-3.02%，微软涨2.78%。",
-          "url": "https://wallstreetcn.com/livenews/3134608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时51分]"
-        },
-        {
-          "title": "亚马逊云业务高管洗牌：计算部门主管将离职",
-          "url": "https://wallstreetcn.com/livenews/3134532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
