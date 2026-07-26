@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T02:59:14.177757+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-07-27T04:08:33.074480+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 04时08分]"
         },
         {
           "title": "伊朗打击亚马逊数据中心，卫星图像公布",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 04时08分]"
         }
       ]
     }
