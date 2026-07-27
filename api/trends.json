@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T14:19:05.164471+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-07-27T18:33:49.106055+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊朗打击亚马逊数据中心，卫星图像公布",
@@ -33,6 +33,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时51分 ~ 06时53分]"
+        },
+        {
+          "title": "瑞安航空与亚马逊网络服务续签协议，期限再延长5年。",
+          "url": "https://flash.jin10.com/detail/20260727180553035800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         }
       ]
     }
