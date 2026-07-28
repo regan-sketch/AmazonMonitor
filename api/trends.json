@@ -1,60 +1,7 @@
 {
-  "generated_at": "2026-07-28T21:42:23.693983+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2026-07-29T00:01:36.028607+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "亚马逊Leo拟部署5105颗卫星，进军手机直连通信市场",
-          "url": "https://wallstreetcn.com/livenews/3140496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时58分]"
-        },
-        {
-          "title": "SpaceX已经“跌掉”一个特斯拉 亚马逊入局卫星通信大战 | 环球市场",
-          "url": "https://www.cls.cn/detail/2438416",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 16时17分]"
-        },
-        {
-          "title": "瑞穗银行：将亚马逊(AMZN.O)目标价从325美元下调至320美元。",
-          "url": "https://flash.jin10.com/detail/20260728184127172800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
-          "title": "瑞银集团：将亚马逊(AMZN.O)目标价从333美元下调至305美元。",
-          "url": "https://flash.jin10.com/detail/20260728183758492800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
