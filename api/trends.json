@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T06:58:02.848756+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-08-01T07:58:15.747206+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时57分 ~ 06时58分]"
+          "appearance_count": 4,
+          "time_info": "[06时57分 ~ 07时58分]"
         },
         {
           "title": "亚马逊电话会：在手订单近5000亿美元，CEO豪言“AWS将成万亿美元业务”，内存成本推高资本支出",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 06时58分]"
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 07时58分]"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -47,11 +47,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 06时58分]"
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 07时58分]"
         },
         {
           "title": "亚马逊缓解市场对人工智能的担忧，美国主要股指收高",
@@ -62,8 +63,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时55分 ~ 06时58分]"
+          "appearance_count": 3,
+          "time_info": "[04时55分 ~ 07时58分]"
         },
         {
           "title": "本周，谷歌A、亚马逊、微软市值合计增长大约1.5万亿美元",
