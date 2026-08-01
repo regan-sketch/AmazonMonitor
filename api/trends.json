@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T10:32:47.161591+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2026-08-01T13:47:53.463562+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时57分 ~ 10时32分]"
+          "appearance_count": 6,
+          "time_info": "[06时57分 ~ 13时47分]"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -26,11 +26,12 @@
             9,
             8,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时21分 ~ 10时32分]"
+          "appearance_count": 10,
+          "time_info": "[01时21分 ~ 13时47分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
