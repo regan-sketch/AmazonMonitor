@@ -1,48 +1,7 @@
 {
-  "generated_at": "2026-08-02T23:55:16.934497+08:00",
-  "total_titles_processed": 1320,
+  "generated_at": "2026-08-03T00:50:28.474559+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 06时46分]"
-        },
-        {
-          "title": "伊朗称打击巴林亚马逊数据中心是对美国行动回应",
-          "url": "https://flash.jin10.com/detail/20260802190322702800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 21时02分]"
-        },
-        {
-          "title": "伊朗回应打击巴林亚马逊数据中心",
-          "url": "https://www.toutiao.com/trending/7669231761053859882/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
