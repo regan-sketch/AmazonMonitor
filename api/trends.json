@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T15:32:04.384292+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-08-04T18:28:57.524823+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3778526",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时43分 ~ 15时32分]"
+          "appearance_count": 7,
+          "time_info": "[09时43分 ~ 18时28分]"
         },
         {
           "title": "地缘风险溢价消退，原油重挫7%破80美元，道指刷新历史新高，亚马逊市值突破三万亿",
@@ -42,6 +43,18 @@
           "time_info": "[01时48分 ~ 04时56分]"
         },
         {
+          "title": "亚马逊正式跻身3万亿美元俱乐部！AWS负责人：“与客户签五年期长期合同，需求远超供给”",
+          "url": "https://wallstreetcn.com/articles/3778603",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时08分 ~ 18时28分]"
+        },
+        {
           "title": "亚马逊(AMZN.O)盘后跌近2%。",
           "url": "https://flash.jin10.com/detail/20260804063616176800",
           "source": "金十数据",
@@ -62,17 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
-        },
-        {
-          "title": "亚马逊正式跻身3万亿美元俱乐部！AWS负责人：“与客户签五年期长期合同，需求远超供给”",
-          "url": "https://wallstreetcn.com/articles/3778603",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时08分 ~ 15时32分]"
         },
         {
           "title": "亚马逊创始人杰夫·贝索斯出售价值40.7亿美元的股票。",
