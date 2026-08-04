@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-04T09:44:12.254744+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2026-08-04T13:09:10.522656+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 13时09分]"
+        },
         {
           "title": "地缘风险溢价消退，原油重挫7%破80美元，道指刷新历史新高，亚马逊市值突破三万亿",
           "url": "https://wallstreetcn.com/articles/3778526",
@@ -31,17 +42,6 @@
           "time_info": "[01时48分 ~ 04时56分]"
         },
         {
-          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
-        },
-        {
           "title": "亚马逊(AMZN.O)盘后跌近2%。",
           "url": "https://flash.jin10.com/detail/20260804063616176800",
           "source": "金十数据",
@@ -64,6 +64,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "亚马逊正式跻身3万亿美元俱乐部！AWS负责人：“与客户签五年期长期合同，需求远超供给”",
+          "url": "https://wallstreetcn.com/articles/3778603",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 13时09分]"
+        },
+        {
           "title": "亚马逊创始人杰夫·贝索斯出售价值40.7亿美元的股票。",
           "url": "https://wallstreetcn.com/livenews/3144370",
           "source": "华尔街见闻-快讯",
@@ -81,7 +92,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
