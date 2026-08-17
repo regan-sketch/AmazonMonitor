@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T04:17:37.910712+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-18T06:15:50.146984+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "投资大佬德鲁肯米勒两年来首次买入中概股，大举加仓亚马逊和AMD，清仓博通、英特尔、美光",
@@ -15,8 +15,30 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 06时15分]"
+        },
+        {
+          "title": "巴西国家石油公司高管：亚马逊地区钻井发现的石油看起来质量很高，但还需进一步分析。公司已经确定了亚马逊地区接下来三口钻井的位置。",
+          "url": "https://flash.jin10.com/detail/20260818052446279800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时17分"
+          "time_info": "06时15分"
+        },
+        {
+          "title": "巴西国家石油公司高管：迄今为止在亚马逊河口钻井的成本约为3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260818051655654800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         }
       ]
     }
