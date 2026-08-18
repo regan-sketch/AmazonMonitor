@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T06:15:50.146984+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-08-18T08:43:24.133679+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3779608",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时17分 ~ 06时15分]"
+          "appearance_count": 3,
+          "time_info": "[04时17分 ~ 08时43分]"
         },
         {
           "title": "巴西国家石油公司高管：亚马逊地区钻井发现的石油看起来质量很高，但还需进一步分析。公司已经确定了亚马逊地区接下来三口钻井的位置。",
@@ -25,7 +26,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -36,7 +37,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         }
