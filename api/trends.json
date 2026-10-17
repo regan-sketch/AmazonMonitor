@@ -1,59 +1,7 @@
 {
-  "generated_at": "2026-10-17T22:42:44.044752+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2026-10-18T01:39:39.070063+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "AWS CFO：AI基建投入热潮具备可持续性",
-          "url": "https://wallstreetcn.com/livenews/3180488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 10时14分]"
-        },
-        {
-          "title": "AWS首席财务官：AI支出可持续 服务器投资回报期不到三年",
-          "url": "https://flash.jin10.com/detail/20261017053229367800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时10分"
-        },
-        {
-          "title": "今年浙江义乌跨境电商进口清单量破1亿单",
-          "url": "https://wallstreetcn.com/livenews/3180554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "亚马逊云服务(AWS)CFO：人工智能领域的支出是可持续的。",
-          "url": "https://flash.jin10.com/detail/20261017052423492800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时10分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
