@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T18:01:55.824462+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2026-10-24T21:55:04.176252+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "亚马逊CEO：公司云服务容量已售罄至2027年",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时10分 ~ 13时15分]"
+        },
+        {
+          "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
+          "url": "https://wallstreetcn.com/articles/3784391",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
         }
       ]
     }
