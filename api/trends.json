@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T08:43:29.218557+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-10-25T13:32:57.984691+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
@@ -14,11 +14,23 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 08时43分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 13时32分]"
+        },
+        {
+          "title": "远期需求旺盛！亚马逊AWS今明年产能都已被抢空，连2028年的算力都快没了",
+          "url": "https://wallstreetcn.com/articles/3784387",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     }
