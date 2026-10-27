@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-10-27T21:48:15.335057+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-10-28T03:07:42.444999+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊(AMZN.O)企业版新增三项由人工智能驱动的采购洞察功能。",
-          "url": "https://flash.jin10.com/detail/20261027045038614800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
