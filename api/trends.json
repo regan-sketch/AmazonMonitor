@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-29T09:26:21.556071+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-10-29T15:51:14.528875+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
@@ -17,8 +17,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 09时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 15时51分]"
+        },
+        {
+          "title": "如何评价亚马逊前华人女工程师疑似按照 ChatGPT 的建议自行减少抗癫痫药物后猝死这一事件？",
+          "url": "https://www.zhihu.com/question/2098895782283841766",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 15时51分]"
         }
       ]
     }
