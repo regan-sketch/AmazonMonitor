@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-11-10T17:00:26.092404+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-11-11T00:50:08.188890+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "亚马逊 Amazon 跨境电商 AWS Prime会员 FBA 亚马逊定价 亚马逊政策 亚马逊新规 亚马逊物流 亚马逊运营",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊Leo项目首次Vulcan任务将发射40颗卫星",
-          "url": "https://wallstreetcn.com/livenews/3197086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
